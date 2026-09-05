@@ -6,7 +6,7 @@ schema: spec-driven
 # Example:
 #   context: |
 #     Tech stack: TypeScript, React, Node.js
-#     We use conventional commits
+#     Commit messages follow Standard Commits; scopes are in AGENTS.md
 #     Domain: e-commerce platform
 
 # Per-artifact rules (optional)
